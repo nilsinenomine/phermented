@@ -1,0 +1,16 @@
+nil:
+  name: Nil Sine Nomine
+  display_name: Nil
+  email: nilsinenomine+phermented@example.net
+  website: https://nilsinenomine.github.com/phermented
+  twitter: https://twitter.com/phermented
+  bio: "We are no one, we are nothing."
+
+sal:
+  name: Sal
+  website: https://www.wowthemes.net
+  avatar: /assets/images/avatar1.jpg
+  bio: "Sal is the author of the free theme Mundana that is currently used for this blog."
+  email: wowthemesnet@gmail.com
+  twitter: https://twitter.com/wowthemesnet
+

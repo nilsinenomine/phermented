@@ -1,0 +1,73 @@
+# Site
+name: 'PHermented'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+#disqus: 'demowebsite'
+#email: 'wowthemesnet@gmail.com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-auto-authors
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination 
+pagination:
+  enabled: true
+  debug: true
+  per_page: 6
+  collection: 'posts'
+  sort_reverse: true
+  permalink: /page:num/
+
+# Auto Pages
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  tags:
+    enabled: false
+  collections:
+    enabled: false
+  authors:
+    enabled: true
+    data: '_data/authors.yml' # Data file with the author details
+    layouts: 
+      - 'author.html' # We'll define this layout later
+    title: ':author'
+    permalink: '/author/:author/'
+    slugify:
+      mode: 'default' # choose from [raw, default, pretty, ascii or latin]
+      cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
