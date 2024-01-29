@@ -8,6 +8,7 @@ image: assets/images/home.jpg
 tags:
 - salawikain
 - sticky
+image: assets/images/a-point-of-no-return.png
 ---
 
 You may have heard, "those who don't learn from history, is doomed to repeat it", and we are quite certain that our version of that word of wisdom rings a bell. 

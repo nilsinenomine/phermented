@@ -4,7 +4,7 @@ title:  "Welcome to PHermented!"
 author: nil
 categories:
 - about
-image: assets/images/demo1.jpg
+image: assets/images/stinky-fish.png
 ---
 We wanted so much to play with the word "Bagoong Pilipinas" to highlight how briny, oceanic, and fishy the 2023-present administration is but at the same time also do not want our articles to be lost simply because of a copyright claim to a common word. So we have to find something else. Bagoong is generally a fermented fish, kril, or shrimp paste, with fermented as its prominent property. It is a Philippine condiment. Some Filipinos are accustomed to it, but definitely not all. So, here is our wordplay instead - PHermented.
 

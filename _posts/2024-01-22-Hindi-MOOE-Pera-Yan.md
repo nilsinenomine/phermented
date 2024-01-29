@@ -7,7 +7,7 @@ categories:
 - congress
 tags:
 - hindimooeperayan
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+image: assets/images/hindi-mooe-pera-yan-v2.png
 ---
 The MOOE has long been questioned by Congress themselves but recent social media campaign makes it appear it was only the Duterte is questioning its manner of liquidation. A quick search will lead you to a timeline that completely tells a different story.
 
