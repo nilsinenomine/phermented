@@ -10,9 +10,10 @@ tags:
 - "2022 PH election rigged"
 - "No to Marcos"
 - "NoMoreMarcos"
+image: "assets/images/Screenshot_2024-03-23_213626_Politiko.jpeg" 
 ---
 
-Atty. Glenn Chong is vocal critic against Smartmatic. He alleges Electoral Fraud through Smartmatic's Machine. 
+Atty. Glenn Chong is a vocal critic against Smartmatic. He has alleged Electoral Fraud through Smartmatic's Machine even before PBBM's bid for the Presidency last 2022. This time around, he alleges that the first lady Liza Marcos dipped her hand in proverbial cookie jar. 
 
 
 Watch and listen to the video below.
